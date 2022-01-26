@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: dkssud8150/productive-box@master
         env:
-          GH_TOKEN: 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
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 63a70d019168a6fa64524a889204ee0a
           TIMEZONE: Asia/Seoul
