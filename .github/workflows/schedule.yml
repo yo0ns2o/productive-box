@@ -13,5 +13,5 @@ jobs:
         uses: dkssud8150/productive-box@master
         env:
           GH_TOKEN: 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 # ${{ secrets.GH_TOKEN }}
-          GIST_ID: af8179798b7655559b25868579e92478 # ${{ secrets.GIST_ID }}
+          GIST_ID: 818e076fa299c2ab82d816f4a23fce77 # ${{ secrets.GIST_ID }}
           TIMEZONE: Asia/Seoul
